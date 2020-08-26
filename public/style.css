@@ -1,0 +1,16 @@
+.main-background-color {
+    background-color: #fafafa;
+}
+
+.eee-border {
+    border-bottom: 1px #eee solid;
+}
+html::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+html {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+}
