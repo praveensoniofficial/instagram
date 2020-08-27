@@ -8,18 +8,18 @@
     />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <link rel="icon" href="{{asset('public/instagram.svg')}}" />
+    <link rel="icon" href="{{secure_asset('public/instagram.svg')}}" />
 
     <title>Instagram</title>
 
     <!-- Bootstrap -->
-    <script src="{{ asset('public/bootstrap/js/jquery.min.js') }}"></script>
-    <link href="{{ asset('public/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
-    <script src="{{ asset('public/bootstrap/js/bootstrap.min.js') }}"></script>
+    <script src="{{ secure_asset('public/bootstrap/js/jquery.min.js') }}"></script>
+    <link href="{{ secure_asset('public/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+    <script src="{{ secure_asset('public/bootstrap/js/bootstrap.min.js') }}"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <!-- Custom styles for this template -->
-    <link href="{{ asset('public/custom/css/custom.css') }}" rel="stylesheet" />
+    <link href="{{ secure_asset('public/custom/css/custom.css') }}" rel="stylesheet" />
     <style>
       body, html {
         overflow-x: hidden;
@@ -101,7 +101,7 @@
     <div class="site-header fixed fixed-bottom pt-3 pb-2">
       <div class="row justify-content-center d-flex">
         <div class="col" style="text-align: center !important;">
-        <a class="text-dark" href="{{asset('feed')}}">
+        <a class="text-dark" href="{{secure_asset('feed')}}">
         <!-- home -->
         <svg
           width="1em"
@@ -124,7 +124,7 @@
         </div>
 
         <div class="col" style="text-align: center !important;">
-        <a class="text-dark" href="{{asset('explore')}}">
+        <a class="text-dark" href="{{secure_asset('explore')}}">
         <!-- search -->
         <svg
           width="1em"
@@ -147,7 +147,7 @@
         </div>
 
         <div class="col" style="text-align: center !important;">
-        <a class="text-dark" href="{{asset('activity')}}">
+        <a class="text-dark" href="{{secure_asset('activity')}}">
         <svg
           width="1em"
           height="1em"
@@ -165,7 +165,7 @@
         </div>
         
         <div class="col" style="text-align: center !important;">
-        <a class="text-dark" href="{{asset('profile')}}">
+        <a class="text-dark" href="{{secure_asset('profile')}}">
         <img
           class=""
           data-src="holder.js/25x25?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail"
@@ -187,8 +187,8 @@
           '<script src="bootstrap/js/jquery-slim.min.js"><\/script>'
         );
     </script>
-    <script src="{{ asset('public/bootstrap/js/popper.min.js') }}"></script>
-    <script src="{{ asset('public/bootstrap/js/bootstrap.min.js') }}"></script>
-    <script src="{{ asset('public/bootstrap/js/holder.min.js') }}"></script>
+    <script src="{{ secure_asset('public/bootstrap/js/popper.min.js') }}"></script>
+    <script src="{{ secure_asset('public/bootstrap/js/bootstrap.min.js') }}"></script>
+    <script src="{{ secure_asset('public/bootstrap/js/holder.min.js') }}"></script>
   </body>
 </html>

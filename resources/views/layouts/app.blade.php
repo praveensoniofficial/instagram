@@ -10,24 +10,24 @@
     <title>{{ config('app.name', 'Laravel') }}</title>
 
     <!-- Scripts -->
-    <script src="{{ asset('js/app.js') }}" defer></script>
+    <script src="{{ secure_asset('js/app.js') }}" defer></script>
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
     <!-- Styles -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
     
     <!-- Bootstrap -->
-    <script src="{{ asset('public/bootstrap/js/jquery.min.js') }}"></script>
-    <link href="{{ asset('public/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
-    <script src="{{ asset('public/bootstrap/js/bootstrap.min.js') }}"></script>
+    <script src="{{ secure_asset('public/bootstrap/js/jquery.min.js') }}"></script>
+    <link href="{{ secure_asset('public/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+    <script src="{{ secure_asset('public/bootstrap/js/bootstrap.min.js') }}"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
-    <link href="{{ asset('public/style.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('public/style.css') }}" rel="stylesheet">
 
-    <link rel="icon" href="{{asset('public/instagram.svg')}}" />
+    <link rel="icon" href="{{secure_asset('public/instagram.svg')}}" />
 </head>
 <body>
     <div id="app">

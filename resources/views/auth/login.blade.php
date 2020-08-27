@@ -55,7 +55,7 @@
             <div class="card mt-3 text-center">
                 <div class="card-body">
                     Don't have an account? 
-                    <a href="{{asset('register')}}">Register</a>
+                    <a href="{{secure_asset('register')}}">Register</a>
                 </div>
             </div>
         </div>

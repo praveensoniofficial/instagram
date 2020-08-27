@@ -81,7 +81,7 @@
             <div class="card mt-3 text-center">
                 <div class="card-body">
                     Have an account? 
-                    <a href="{{asset('login')}}">Login</a>
+                    <a href="{{secure_asset('login')}}">Login</a>
                 </div>
             </div>
         </div>

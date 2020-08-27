@@ -80,31 +80,31 @@
             <div class="container-fluid">
               <div class="row py-2 d-flex justify-content-center">
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
               </div>
             </div>
@@ -113,31 +113,31 @@
             <div class="container-fluid">
               <div class="row py-2 d-flex justify-content-center">
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
               </div>
             </div>
@@ -146,31 +146,31 @@
             <div class="container-fluid">
               <div class="row py-2 d-flex justify-content-center">
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
                 <div style="width:30%" class="mx-1 my-1">
-                  <img src="{{asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
+                  <img src="{{secure_asset('public/post.jpg')}}" class="img-fluid" alt="..." style="min-height:110px;width:100%;">
                 </div>
               </div>
             </div>
